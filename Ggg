@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVI" tvg-logo="http://logos.inovationgroup.live/unk/logos/PiconsPT/1.Generalistas%20Portugueses/TVI.png" group-title="PORTUGAL",TVI
+http://unidos.xyz:80/live/PauloFigueiredo/KImWqHxOsR/337.ts
